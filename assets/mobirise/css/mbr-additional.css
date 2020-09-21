@@ -1147,6 +1147,35 @@ a {
   padding-bottom: 10rem;
   background-image: url("../../../assets/images/genshin-bg-2-1920x700.png");
 }
+.cid-sbbDfgY2ZR {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #353535;
+}
+.cid-sbbDfgY2ZR .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sbbDfgY2ZR .mbr-section-title,
+.cid-sbbDfgY2ZR .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sbbDfgY2ZR .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sbbDfgY2ZR .mbr-section-title {
+  color: #fafafa;
+}
+.cid-sbbDfgY2ZR .mbr-description {
+  color: #ffffff;
+}
+.cid-sbbDfgY2ZR .mbr-text {
+  color: #ffffff;
+}
+.cid-sbbDfgY2ZR .mbr-section-subtitle {
+  color: #ff9966;
+}
 .cid-sbb06HiHig {
   padding-top: 2rem;
   padding-bottom: 0rem;
